@@ -83,7 +83,7 @@
     - ~`sudo apt install zip unzip gawk sed curl wget -y`~        [可选，非必需]
 
 6.  下载此工具【复制下面命令，终端中执行】
-    - `git clone https://gitee.com/sharpeter/DNA.git --depth 1`      【 **开放下载，所有可用功能完全免费** 】
+    - `git clone https://github.com/vinokok/DNA.git --depth 1`      【 **开放下载，所有可用功能完全免费** 】
 
 7.  下载完成后执行【复制下面命令，终端中执行】
     - `cd DNA && python3 run.py`
